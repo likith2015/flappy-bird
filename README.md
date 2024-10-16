@@ -1,1 +1,2 @@
 # flappy-bird
+Flappy Bird is a fun and addictive arcade game where players control a bird trying to navigate through a series of pipes without hitting them. The gameplay is simple: tap to make the bird flap its wings and stay airborne. The goal is to keep the bird flying as far as possible by skillfully timing the flaps to avoid crashing into the pipes. With a straightforward design, retro-inspired graphics, Flappy Bird keeps players hooked as they try to beat their high scores. Perfect for quick sessions and casual gaming!
